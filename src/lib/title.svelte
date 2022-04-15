@@ -1,5 +1,5 @@
 <script>
-  let title = "catafest"
+  export let title = "catafest"
 </script>
 <div class="title">
   <img src="/logo.svg"alt="site-logo">

@@ -1,3 +1,7 @@
+<script>
+  import Title from '$lib/title.svelte'
+</script>
+<Title title="About catafest"/>
 <div class="about">
   <h2>About Us</h2>
   <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
