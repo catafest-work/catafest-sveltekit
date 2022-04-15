@@ -1,367 +1,256 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    xmlns:cc="http://creativecommons.org/ns#"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:ns1="http://sozi.baierouge.fr"
-    id="svg4924"
-    sodipodi:docname="blue.sticker.1.timothy.king.svg"
-    inkscape:export-filename="/home/timothy/Pictures/Vector Elements/blue.sticker.1.timothy.king.png"
-    viewBox="0 0 400 400"
-    sodipodi:version="0.32"
-    inkscape:export-xdpi="72"
-    version="1.0"
-    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-    inkscape:export-ydpi="72"
-    inkscape:version="0.46"
-  >
+   id="svg4924"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/timothy/Pictures/Vector Elements/blue.sticker.1.timothy.king.png"
+   viewBox="0 0 400 400"
+   sodipodi:version="0.32"
+   inkscape:export-xdpi="72"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-ydpi="72"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-      id="defs4926"
-    >
+     id="defs4926">
     <linearGradient
-        id="linearGradient5502"
-      >
+       id="linearGradient5502">
       <stop
-          id="stop5504"
-          style="stop-color:#457ca9"
-          offset="0"
-      />
+         id="stop5504"
+         style="stop-color:#457ca9"
+         offset="0" />
       <stop
-          id="stop5512"
-          style="stop-color:#457ca9"
-          offset=".76874"
-      />
+         id="stop5512"
+         style="stop-color:#457ca9"
+         offset=".76874" />
       <stop
-          id="stop5510"
-          style="stop-color:#40749e"
-          offset=".91176"
-      />
+         id="stop5510"
+         style="stop-color:#40749e"
+         offset=".91176" />
       <stop
-          id="stop5506"
-          style="stop-color:#457ca9"
-          offset="1"
-      />
-    </linearGradient
-    >
+         id="stop5506"
+         style="stop-color:#457ca9"
+         offset="1" />
+    </linearGradient>
     <filter
-        id="filter5460"
-        inkscape:collect="always"
-      >
+       id="filter5460"
+       inkscape:collect="always"
+       x="-0.035397321"
+       y="-0.036623692"
+       width="1.0707946"
+       height="1.0732474">
       <feGaussianBlur
-          id="feGaussianBlur5462"
-          stdDeviation="5.1621094"
-          inkscape:collect="always"
-      />
-    </filter
-    >
+         id="feGaussianBlur5462"
+         stdDeviation="5.1621094"
+         inkscape:collect="always" />
+    </filter>
     <clipPath
-        id="clipPath5474"
-        clipPathUnits="userSpaceOnUse"
-      >
+       id="clipPath5474"
+       clipPathUnits="userSpaceOnUse">
       <path
-          id="path5476"
-          style="fill:#000000"
-          d="m300.56 245.5c-65.49 25.31-112 88.89-112 163.28 0 96.6 78.4 175 175 175s175-78.4 175-175c0-9.41-0.72-18.64-2.15-27.66l-235.85-135.62z"
-      />
-    </clipPath
-    >
+         id="path5476"
+         style="fill:#000000"
+         d="m300.56 245.5c-65.49 25.31-112 88.89-112 163.28 0 96.6 78.4 175 175 175s175-78.4 175-175c0-9.41-0.72-18.64-2.15-27.66l-235.85-135.62z" />
+    </clipPath>
     <filter
-        id="filter5482"
-        inkscape:collect="always"
-      >
+       id="filter5482"
+       inkscape:collect="always"
+       x="-0.029244754"
+       y="-0.046812646"
+       width="1.0584895"
+       height="1.0936253">
       <feGaussianBlur
-          id="feGaussianBlur5484"
-          stdDeviation="2.8739063"
-          inkscape:collect="always"
-      />
-    </filter
-    >
+         id="feGaussianBlur5484"
+         stdDeviation="2.8739063"
+         inkscape:collect="always" />
+    </filter>
     <clipPath
-        id="clipPath5498"
-        clipPathUnits="userSpaceOnUse"
-      >
+       id="clipPath5498"
+       clipPathUnits="userSpaceOnUse">
       <path
-          id="path5500"
-          style="fill:#ffffff"
-          d="m321.25 281.69c-43.96 16.99-75.17 59.67-75.17 109.59 0 64.84 52.62 117.46 117.45 117.46 64.84 0 117.46-52.62 117.46-117.46 0-6.31-0.49-12.51-1.45-18.56l-158.29-91.03z"
-      />
-    </clipPath
-    >
+         id="path5500"
+         style="fill:#ffffff"
+         d="m321.25 281.69c-43.96 16.99-75.17 59.67-75.17 109.59 0 64.84 52.62 117.46 117.45 117.46 64.84 0 117.46-52.62 117.46-117.46 0-6.31-0.49-12.51-1.45-18.56l-158.29-91.03z" />
+    </clipPath>
     <clipPath
-        id="clipPath5536"
-        clipPathUnits="userSpaceOnUse"
-      >
+       id="clipPath5536"
+       clipPathUnits="userSpaceOnUse">
       <path
-          id="path5538"
-          style="fill:#ffffff"
-          d="m300.56 245.5c-65.49 25.31-112 88.89-112 163.28 0 96.6 78.4 175 175 175s175-78.4 175-175c0-9.41-0.72-18.64-2.15-27.66l-235.85-135.62z"
-      />
-    </clipPath
-    >
+         id="path5538"
+         style="fill:#ffffff"
+         d="m300.56 245.5c-65.49 25.31-112 88.89-112 163.28 0 96.6 78.4 175 175 175s175-78.4 175-175c0-9.41-0.72-18.64-2.15-27.66l-235.85-135.62z" />
+    </clipPath>
     <radialGradient
-        id="radialGradient5548"
-        xlink:href="#linearGradient5502"
-        gradientUnits="userSpaceOnUse"
-        cy="390.78"
-        cx="363.83"
-        r="108.21"
-        inkscape:collect="always"
-    />
+       id="radialGradient5548"
+       xlink:href="#linearGradient5502"
+       gradientUnits="userSpaceOnUse"
+       cy="390.78"
+       cx="363.83"
+       r="108.21"
+       inkscape:collect="always" />
     <linearGradient
-        id="linearGradient5550"
-        y2="402.48"
-        spreadMethod="reflect"
-        gradientUnits="userSpaceOnUse"
-        x2="472.04"
-        gradientTransform="matrix(1.4899 0 0 1.4899 -178.08 -174.21)"
-        y1="207.51"
-        x1="472.04"
-        inkscape:collect="always"
-      >
+       id="linearGradient5550"
+       y2="402.48"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       x2="472.04"
+       gradientTransform="matrix(1.4899 0 0 1.4899 -178.08 -174.21)"
+       y1="207.51"
+       x1="472.04"
+       inkscape:collect="always">
       <stop
-          id="stop5518"
-          style="stop-color:#ffffff"
-          offset="0"
-      />
+         id="stop5518"
+         style="stop-color:#ffffff"
+         offset="0" />
       <stop
-          id="stop5520"
-          style="stop-color:#ffffff;stop-opacity:0"
-          offset="1"
-      />
-    </linearGradient
-    >
+         id="stop5520"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
     <linearGradient
-        id="linearGradient5555"
-        y2="327.04"
-        gradientUnits="userSpaceOnUse"
-        x2="428.93"
-        gradientTransform="translate(25 30.859)"
-        y1="345.92"
-        x1="418.48"
-        inkscape:collect="always"
-      >
+       id="linearGradient5555"
+       y2="327.04"
+       gradientUnits="userSpaceOnUse"
+       x2="428.93"
+       gradientTransform="translate(25 30.859)"
+       y1="345.92"
+       x1="418.48"
+       inkscape:collect="always">
       <stop
-          id="stop5488"
-          style="stop-color:#ffffff"
-          offset="0"
-      />
+         id="stop5488"
+         style="stop-color:#ffffff"
+         offset="0" />
       <stop
-          id="stop5490"
-          style="stop-color:#d9d9d9"
-          offset="1"
-      />
-    </linearGradient
-    >
-    <linearGradient
-        id="linearGradient5570"
-        y2="54.92"
-        xlink:href="#linearGradient5502"
-        gradientUnits="userSpaceOnUse"
-        x2="575.13"
-        gradientTransform="translate(-792.36 165.48)"
-        y1="404.11"
-        x1="575.13"
-        inkscape:collect="always"
-    />
-  </defs
-  >
+         id="stop5490"
+         style="stop-color:#d9d9d9"
+         offset="1" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
-      id="base"
-      bordercolor="#666666"
-      inkscape:pageshadow="2"
-      guidetolerance="10"
-      pagecolor="#ffffff"
-      gridtolerance="10000"
-      inkscape:window-height="683"
-      inkscape:zoom="0.48684427"
-      objecttolerance="10"
-      showgrid="false"
-      borderopacity="1.0"
-      inkscape:current-layer="layer1"
-      inkscape:cx="641.22759"
-      inkscape:cy="97.404249"
-      inkscape:window-y="47"
-      inkscape:window-x="0"
-      inkscape:window-width="1280"
-      inkscape:pageopacity="0.0"
-      inkscape:document-units="px"
-  />
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10"
+     pagecolor="#ffffff"
+     gridtolerance="10000"
+     inkscape:window-height="1017"
+     inkscape:zoom="3.8947542"
+     objecttolerance="10"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="167.27628"
+     inkscape:cy="263.94477"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:pagecheckerboard="0"
+     inkscape:window-maximized="1" />
   <g
-      id="layer1"
-      inkscape:label="Layer 1"
-      inkscape:groupmode="layer"
-      transform="translate(-188.56 -245.5)"
-    >
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-188.56 -245.5)">
     <path
-        id="path5454"
-        style="filter:url(#filter5460);fill:#000000"
-        d="m325.56 276.36c-65.49 25.31-112 88.89-112 163.28 0 96.6 78.4 175 175 175s175-78.4 175-175c0-9.41-0.72-18.64-2.15-27.66l-235.85-135.62z"
-    />
+       id="path5454"
+       style="filter:url(#filter5460);fill:#000000"
+       d="m325.56 276.36c-65.49 25.31-112 88.89-112 163.28 0 96.6 78.4 175 175 175s175-78.4 175-175c0-9.41-0.72-18.64-2.15-27.66l-235.85-135.62z" />
     <path
-        id="path4934"
-        style="fill:#ffffff"
-        d="m325.56 276.36c-65.49 25.31-112 88.89-112 163.28 0 96.6 78.4 175 175 175s175-78.4 175-175c0-9.41-0.72-18.64-2.15-27.66l-235.85-135.62z"
-    />
+       id="path4934"
+       style="fill:#ffffff"
+       d="m325.56 276.36c-65.49 25.31-112 88.89-112 163.28 0 96.6 78.4 175 175 175s175-78.4 175-175c0-9.41-0.72-18.64-2.15-27.66l-235.85-135.62z" />
     <path
-        id="path5494"
-        sodipodi:rx="108.20597"
-        sodipodi:ry="108.20597"
-        style="fill:url(#radialGradient5548)"
-        sodipodi:type="arc"
-        d="m472.04 390.78a108.21 108.21 0 1 1 -216.41 0 108.21 108.21 0 1 1 216.41 0z"
-        clip-path="url(#clipPath5498)"
-        transform="matrix(1.4899 0 0 1.4899 -153.08 -143.35)"
-        sodipodi:cy="390.78073"
-        sodipodi:cx="363.8335"
-    />
+       id="path5494"
+       sodipodi:rx="108.20597"
+       sodipodi:ry="108.20597"
+       style="fill:url(#radialGradient5548)"
+       sodipodi:type="arc"
+       d="m472.04 390.78a108.21 108.21 0 1 1 -216.41 0 108.21 108.21 0 1 1 216.41 0z"
+       clip-path="url(#clipPath5498)"
+       transform="matrix(1.4899 0 0 1.4899 -153.08 -143.35)"
+       sodipodi:cy="390.78073"
+       sodipodi:cx="363.8335" />
     <path
-        id="path5514"
-        style="fill:url(#linearGradient5550)"
-        clip-path="url(#clipPath5536)"
-        d="m361.98 249.82c-62.81-0.19-122.86 41.62-145.27 100.24-22.65 55.94-9.33 124.1 32.78 167.16 41.06 44.11 108.07 60.53 164.89 40.87 59.78-19.39 104.41-77.16 107.53-139.91 4.75-60.97-29.86-122.23-84.18-150.2-23.27-12.29-49.44-18.56-75.75-18.16z"
-        transform="translate(25 30.859)"
-    />
+       id="path5514"
+       style="fill:url(#linearGradient5550)"
+       clip-path="url(#clipPath5536)"
+       d="m361.98 249.82c-62.81-0.19-122.86 41.62-145.27 100.24-22.65 55.94-9.33 124.1 32.78 167.16 41.06 44.11 108.07 60.53 164.89 40.87 59.78-19.39 104.41-77.16 107.53-139.91 4.75-60.97-29.86-122.23-84.18-150.2-23.27-12.29-49.44-18.56-75.75-18.16z"
+       transform="translate(25 30.859)" />
     <path
-        id="path5464"
-        style="filter:url(#filter5482);fill:#000000"
-        clip-path="url(#clipPath5474)"
-        transform="translate(25 30.859)"
-        d="m473.41 393.45c22.21 0 43.44-4.16 63-11.72l-235.85-135.62c13.28 83.46 85.66 147.34 172.85 147.34z"
-    />
+       id="path5464"
+       style="filter:url(#filter5482);fill:#000000"
+       clip-path="url(#clipPath5474)"
+       transform="translate(25 30.859)"
+       d="m473.41 393.45c22.21 0 43.44-4.16 63-11.72l-235.85-135.62c13.28 83.46 85.66 147.34 172.85 147.34z" />
     <path
-        id="path5447"
-        style="fill:url(#linearGradient5555)"
-        d="m498.41 424.31c22.21 0 43.44-4.16 63-11.72l-235.85-135.63c13.28 83.47 85.66 147.35 172.85 147.35z"
-    />
-    <rect
-        id="rect5562"
-        style="fill:url(#linearGradient5570)"
-        transform="rotate(-90)"
-        height="349.19"
-        width="125.3"
-        y="220.4"
-        x="-217.23"
-    />
+       id="path5447"
+       style="fill:url(#linearGradient5555)"
+       d="m498.41 424.31c22.21 0 43.44-4.16 63-11.72l-235.85-135.63c13.28 83.47 85.66 147.35 172.85 147.35z" />
     <text
-        id="text5572"
-        style="font-size:19.028px;font-family:DejaVu Sans;fill:#000000;line-height:125%"
-        xml:space="preserve"
-        y="149.16582"
-        x="399.26129"
-        sodipodi:linespacing="125%"
-      >
-      <tspan
-          id="tspan5574"
-          sodipodi:role="line"
-          x="402.2901"
-          style="text-anchor:middle;text-align:center"
-          y="149.16582"
-        >recolor this gradient </tspan
-      >
-      <tspan
-          id="tspan5576"
-          sodipodi:role="line"
-          x="399.26129"
-          style="text-anchor:middle;text-align:center"
-          y="172.9503"
-        >to change the sticker color</tspan
-      >
-    </text
-    >
-  </g
-  >
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:63.8259px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.59565"
+       x="281.49216"
+       y="488.1445"
+       id="text1902"
+       transform="scale(0.94797034,1.0548853)"><tspan
+         sodipodi:role="line"
+         id="tspan1900"
+         x="281.49216"
+         y="488.1445"
+         style="stroke-width:1.59565">catafest</tspan></text>
+  </g>
   <metadata
-    >
-    <rdf:RDF
-      >
-      <cc:Work
-        >
-        <dc:format
-          >image/svg+xml</dc:format
-        >
+     id="metadata84">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-        />
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
-            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
-        />
-        <dc:publisher
-          >
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
           <cc:Agent
-              rdf:about="http://openclipart.org/"
-            >
-            <dc:title
-              >Openclipart</dc:title
-            >
-          </cc:Agent
-          >
-        </dc:publisher
-        >
-        <dc:title
-          >Blue Sticker</dc:title
-        >
-        <dc:date
-          >2009-05-21T19:55:35</dc:date
-        >
-        <dc:description
-          >A simple blue sticker, peeling from the top-right. Off canvas are instructions for  inkscape users to easily recolor it.</dc:description
-        >
-        <dc:source
-          >https://openclipart.org/detail/26109/blue-sticker-by-tiothy-26109</dc:source
-        >
-        <dc:creator
-          >
-          <cc:Agent
-            >
-            <dc:title
-              >tiothy</dc:title
-            >
-          </cc:Agent
-          >
-        </dc:creator
-        >
-        <dc:subject
-          >
-          <rdf:Bag
-            >
-            <rdf:li
-              >blue</rdf:li
-            >
-            <rdf:li
-              >icon</rdf:li
-            >
-            <rdf:li
-              >seal</rdf:li
-            >
-          </rdf:Bag
-          >
-        </dc:subject
-        >
-      </cc:Work
-      >
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Blue Sticker</dc:title>
+        <dc:date>2009-05-21T19:55:35</dc:date>
+        <dc:description>A simple blue sticker, peeling from the top-right. Off canvas are instructions for  inkscape users to easily recolor it.</dc:description>
+        <dc:source>https://openclipart.org/detail/26109/blue-sticker-by-tiothy-26109</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>tiothy</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>blue</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>seal</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
       <cc:License
-          rdf:about="http://creativecommons.org/licenses/publicdomain/"
-        >
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
         <cc:permits
-            rdf:resource="http://creativecommons.org/ns#Reproduction"
-        />
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
-            rdf:resource="http://creativecommons.org/ns#Distribution"
-        />
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
         <cc:permits
-            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
-        />
-      </cc:License
-      >
-    </rdf:RDF
-    >
-  </metadata
-  >
-</svg
->
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
