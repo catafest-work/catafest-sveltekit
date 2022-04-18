@@ -1,12 +1,13 @@
 <script>
   import Title from '$lib/title.svelte'
-
+  import '../styles/global.css'
 </script>
 
 <header>
   <Title title="Ninja Gaming Guides" />
 </header>
 <main>
+  <!-- page content -->
   <slot></slot>
 </main>
 <footer>
@@ -25,4 +26,5 @@
   footer {
     text-align: center;
   }
+
 </style>
