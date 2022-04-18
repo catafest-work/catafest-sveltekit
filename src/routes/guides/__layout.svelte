@@ -17,9 +17,7 @@
   <!-- page content -->
   <slot></slot>
 </main>
-<footer>
-  <p>Copyright 2022 Ninja Gaming Guides</p>
-</footer>
+
 
 <style>
   header {
